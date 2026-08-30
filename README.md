@@ -1,6 +1,6 @@
 # About
 
-![Banner](https://i.imgur.com/GG8fcJe.png)
+![Banner](img/banner.png)
 
 I am a beginner coder, I have been learning languages for 3 years and am currently working on an API router for different AIs.
 
