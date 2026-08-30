@@ -1,6 +1,6 @@
 # About
 
-![Banner](img/banner.png)
+![Banner](thesharp.png)
 
 I am a beginner coder, I have been learning languages for 3 years and am currently working on an API router for different AIs.
 
