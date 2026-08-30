@@ -1,5 +1,7 @@
-# About 
-![banner](https://imgur.com/a/GG8fcJe).
+# About
+
+![Banner](https://i.imgur.com/GG8fcJe.png)
+
 I am a beginner coder, I have been learning languages for 3 years and am currently working on an API router for different AIs.
 
 # Tech Stack
